@@ -1,0 +1,46 @@
+Creëer een premium, professionele en overtuigende AI-agency website die perfect aansluit bij het bedrijf VisionaryMind. VisionaryMind biedt innovatieve en geavanceerde AI-oplossingen speciaal gericht op het MKB, met zowel standaarddiensten als maatwerkoplossingen.
+
+Zorg ervoor dat je ontwerp de volgende essentiële elementen bevat en duidelijk presenteert:
+
+Visuele richting & stijl:
+High-tech, futuristische uitstraling met een dark mode basis.
+Moderne neonaccenten (helder blauw, paars en groen) om AI-technologie uit te drukken.
+Professioneel, strak en zakelijk met duidelijke hiërarchie voor goede leesbaarheid.
+Opvallende, hoogwaardige animaties en subtiele micro-interacties ter verrijking van de UX.
+Inspiratiebron: High-end AI startups en moderne, innovatieve techbedrijven.
+Homepage-secties (verplicht):
+Hero-sectie
+Een pakkende headline (bijvoorbeeld: “Ontketen het volledige potentieel van AI voor jouw onderneming”)
+Korte, krachtige pitch waarom VisionaryMind dé zakelijke AI-partner is
+Opvallende Call-To-Action knop: “Plan een adviesgesprek”.
+Over VisionaryMind
+Voorstelling van het bedrijf: wie zijn we, onze missie en visie.
+Waarom bedrijven het beste bij ons terechtkunnen voor AI-oplossingen.
+AI-diensten & oplossingen
+Opsomming (of duidelijke presentatie) van standaarddiensten én custom-made AI-oplossingen gericht op MKB-bedrijven.
+Helder onderscheid tussen kant-en-klare diensten en uitgebreide maatwerkopties.
+Maatwerkoplossingen (custom AI-oplossingen)
+Hoe AI-oplossingen specifiek afgestemd worden op unieke bedrijfsbehoeften.
+Voorbeelden of korte cases ter ondersteuning.
+Contactformulier
+Duidelijke velden: Bedrijfsnaam, Naam contactpersoon, E-mail, Telefoonnummer, Bericht.
+Aantrekkelijke, duidelijke verzendknop (bijvoorbeeld: "Neem direct contact op").
+Professionele Footer
+KvK-nummer, adresgegevens, social media-links, links naar voorwaarden/privacybeleid en eventueel copyrightvermelding.
+Extra benodigdheden voor de optimale uitvoering (lever naast het ontwerp óók de volgende onderdelen):
+
+Kleurenpalet:
+Maak een passend, futuristisch kleurenpalet met een duidelijke codering (hex-codes). Gebruik donkere achtergrondkleuren en levendige accentkleuren (bijvoorbeeld neontinten blauw, paars, groen).
+Lettertype Voorstel:
+Selecteer twee professionele en moderne lettertypes die elkaar versterken:
+Eén krachtig en opvallend lettertype voor titels en hoofdteksten (headings).
+Eén strak en zakelijk leesbaar lettertype voor bodyteksten.
+Geef duidelijke voorbeelden en links naar eventueel Google Fonts.
+Tijdelijk Logo-ontwerp:
+Genereer een eenvoudig en passend tijdelijk logo in moderne tech/AI stijl, passend bij de naam VisionaryMind, dit logo moet tech en innovatie uitstralen (bijvoorbeeld met elementen als abstracte lijnen of circuits, een moderne typografie gecombineerd met AI-gerelateerde stijlelementen).
+Outputvoorwaarden en tips voor Replit:
+
+Wees gestructureerd en duidelijk georganiseerd.
+Lever elk onderdeel afzonderlijk en duidelijk gelabeld.
+Geef suggesties en mogelijke inspiratiebronnen (bijvoorbeeld andere succesvolle AI-agency websites).
+Maak eventuele aanbevelingen voor extra functies of elementen die de zakelijke uitstraling en conversie optimaliseren (zoals een chat widget, pop-up CTA, korte testimonials of klantlogo's).
